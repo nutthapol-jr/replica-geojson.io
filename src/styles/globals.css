@@ -19,8 +19,13 @@ a {
   html {
     color-scheme: dark;
   }
+
   body {
     color: white;
     background: black;
   }
+}
+
+.mapboxgl-ctrl-group.mapboxgl-ctrl {
+  display: none !important;
 }
