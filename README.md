@@ -25,3 +25,4 @@ yarn install && yarn dev
 
 ## Preview
 
+![plot](./public/preview.jpg)
